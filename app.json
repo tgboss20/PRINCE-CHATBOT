@@ -1,8 +1,8 @@
 {
-    "name": "𝗩𝗜𝗣 𝗖𝗛𝗔𝗧𝗕𝗢𝗧",    
+    "name": "𝗣ʀɪɴᴄᴇ 𝗖ʜᴀᴛʙᴏᴛ",    
     "env": {
         "BOT_TOKEN": {
-            "description": "𝐅𝐢𝐥𝐥 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐓𝐨𝐤𝐞𝐧 𝐎𝐧𝐥𝐲",
+            "description": "Fɪʟʟ Yᴏᴜʀ Bᴏᴛ Tᴏᴋᴇɴ Oɴʟʏ",
             "required": true
         }              
     },
